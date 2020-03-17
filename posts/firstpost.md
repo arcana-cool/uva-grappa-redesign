@@ -1,26 +1,20 @@
 ---
-title: This is my first post
-summary: Why contemplating our mortality can be a powerful catalyst for change
-date: 2015-01-01
+title: LOFAR images cosmic radio monsters
+summary: Pareidolia is a tendency that pushes humans to see shapes in clouds or faces in inanimate objects. The picture shown here is a composition of four cosmic radio sources that can in fact look like a scary monster. To obtain this effect, the sources have been rearranged compared to their original position in the sky but their apparent sizes were preserved.
+date: 2020-03-05
 tags:
-  - tech
-  - environment
-  - politics
-  - sport
+  - staff news
+  - research
+  - pdfs
+  - Jacco Vink
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Pareidolia is a tendency that pushes humans to see shapes in clouds or faces in inanimate objects. The picture shown here is a composition of four cosmic radio sources that can in fact look like a scary monster. To obtain this effect, the sources have been rearranged compared to their original position in the sky but their apparent sizes were preserved.
 
-## Section Header
+However, in some sense, these sources are real monsters. Their names are: Cassiopeia A (top left), Taurus A (top right), Cygnus A (center), and Virgo A (bottom). These are the four most powerful radio sources in the northern hemisphere. Historically, the brightest radio sources in the sky were named after the constellation in which they were found followed by a letter starting with an “A”. They were then grouped in the so-called A-team, like the famous TV series from the 80s.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+The nature of these four monsters is very diverse. The eyes of the monster (Cassiopeia A and Taurus A) are two supernova remnants: the leftovers of the explosions of two stars in our own Galaxy. The evil pupil that stares at you in Taurus A is the Crab pulsar. The nose of the monster, Cygnus A, is an extremely powerful radio galaxy 600 million light years away, whose two lobes are powered by jets of energetic particles formed near a supermassive black hole. The mouth of the monster (Virgo A) is the extended structure (larger than an entire galaxy) that surrounds the famous supermassive black hole at the centre of the galaxy M87, the same black hole recently imaged by the Event Horizon Telescope.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+These four sources are well known to radio astronomers, but this is the first time that they were able to see them in such great detail at the extremely long wavelengths of 5 meters, close to the longest wavelength we can observe with ground instruments. The images used to make the radio monster were obtained with the Low Frequency Array (LOFAR), a pan-European radio telescope made by 52 stations spread across 8 different countries (The Netherlands, Germany, France, UK, Poland, Sweden, Latvia, Ireland, and soon Italy) and coordinated by a supercomputer in Groningen (NL).
+
+GRAPPA member Jacco Vink is one of the co-authors on the paper. [Read the full paper here (PDF, XXKB)](https://arxiv.org/pdf/2002.10431.pdf).
