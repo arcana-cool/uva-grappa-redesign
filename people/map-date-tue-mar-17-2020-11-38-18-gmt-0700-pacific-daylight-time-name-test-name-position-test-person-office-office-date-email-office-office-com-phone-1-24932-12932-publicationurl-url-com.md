@@ -1,5 +1,6 @@
 ---
 name: Shin’ichiro Ando
+title: Shin’ichiro Ando
 date: 2020-03-17T18:38:18.174Z
 position: 'Office: C4.157'
 office: C4.157
