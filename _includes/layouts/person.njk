@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+section: person
+---
+
+<article>
+  <h1>{{ name }}</h1>
+  <p>
+    {{ position }}
+  </p>
+  <p>
+    {{ office }}
+  </p>
+  <p>
+    {{ phone }}
+  </p>
+
+  {{ layoutContent | safe }}
+
+  {% if tags %}
+    <p>
+    {% for tag in tags %}
+      {%- if tag != "post" -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+    </p>
+  {% endif %}
+
+</article>
+
+<nav>
+  <a href="{{ '/people/' | url }}">← Back to People</a>
+</nav>

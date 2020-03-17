@@ -1,0 +1,9 @@
+
+{
+    "layout": "layouts/people.njk",
+    "permalink": "people/{{ name | slug }}/index.html",
+    "tags": [
+      "people"
+    ]
+  }
+  
