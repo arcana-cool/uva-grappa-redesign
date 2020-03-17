@@ -1,9 +1,9 @@
 ---
-name: Test Name
+name: Shin’ichiro Ando
 date: 2020-03-17T18:38:18.174Z
-position: Test Person
-office: office date
-email: office@office.com
-phone: 1 24932 12932
-publicationURL: url.com
+position: 'Office: C4.157'
+office: C4.157
+email: s.ando@uva.nl
+phone: +31 (0)20 525 6316
+publicationURL: 'http://inspirehep.net/search?p=exactauthor%3AS.Ando.1+'
 ---
