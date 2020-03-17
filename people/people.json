@@ -1,6 +1,6 @@
 
 {
-    "layout": "layouts/people.njk",
+    "layout": "layouts/person.njk",
     "permalink": "people/{{ name | slug }}/index.html",
     "tags": [
       "people"

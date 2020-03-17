@@ -1,6 +1,5 @@
 ---
 name: Daniel Baumann
-title: Daniel Baumann
 date: 2017-02-03T00:00:00.000Z
 position: GRAPPA Spokesperson
 office: C4.276
