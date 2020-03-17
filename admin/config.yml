@@ -3,7 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 
 # Uncomment below to enable drafts
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: "static/img" # Media files will be stored in the repo under images/uploads
 
@@ -44,8 +44,7 @@ collections:
     create: true # Change to true to allow editors to create new pages
     slug: "{{slug}}"
     fields:
-      - { label: "Name", name: "name", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Name", name: "title", widget: "string" }
       - { label: "Position", name: "position", widget: "string" }
       - { label: "Office", name: "office", widget: "string" }
       - { label: "Email", name: "email", widget: "string" }
