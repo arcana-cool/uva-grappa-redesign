@@ -59,5 +59,5 @@ Here is a collection of official UvA documents that help you with your studies. 
 Following are for 2012/2013:
 
 - [MSc in Science Guidebook](http://www.science.uva.nl/onderwijs/formulieren/EW/Guidebook%202012-2013.pdf)
-- Training and Examination Regulation Astronomy&Astrophysics
-- Training and Examination Regulation Physics
+- [Training and Examination Regulation Astronomy&Astrophysics](http://student.uva.nl/binaries/content/assets/studentensites/fnwi/ew-gedeelde-content/rules-and-regulations/eer-astronomy-ans-astrophysics-2012-2013.pdf)
+- [Training and Examination Regulation Physics](http://student.uva.nl/binaries/content/assets/studentensites/fnwi/ew-gedeelde-content/rules-and-regulations/eer-physics-2012-2013.pdf)
