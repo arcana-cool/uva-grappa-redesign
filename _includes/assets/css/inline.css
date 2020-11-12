@@ -19,7 +19,7 @@ body {
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--turkey);
+	background-color: white;
 }
 
 main {
@@ -104,6 +104,13 @@ header nav li a[href]:not(:hover) {
 header nav li a[data-current="current item"] {
 	font-weight: 700;
 	text-decoration: underline;
+}
+
+/* Type */
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Termina', Helvetica, sans-serif;
+	line-height: 1.2;
 }
 
 /* Posts List */

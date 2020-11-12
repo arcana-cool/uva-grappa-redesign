@@ -1,23 +1,19 @@
 <!doctype html>
 <html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
-
 	{% include "components/head.njk" %}
-
 	<body>
-
 		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
+			<div class="header__uva">
+				<a href="{{ '/' | url }}">
+					<img src="./assets/svg/grappa-logo.svg" alt="University of Amsterdam"/>
+				</a>
+				{# {{ metadata.title }} #}
+			</div>	
 			{% include "components/nav.njk" %}
 		</header>
-
 		<main>
 			{{ layoutContent | safe }}
 		</main>
-
 		{% include "components/footer.njk" %}
-
 	</body>
-
 </html>
