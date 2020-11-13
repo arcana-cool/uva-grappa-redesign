@@ -6,7 +6,7 @@ date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
-  order: 5
+  order: 6
 ---
 
 Please direct any questions here. Note that: 
