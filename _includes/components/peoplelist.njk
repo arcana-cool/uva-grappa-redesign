@@ -1,7 +1,8 @@
 <section>
 	{% for post in postslist %}
 		<article>
-            {# {% if post.data.headshot %}<img #}
+            {% if post.data.headshot %}<img src="{{ post.data.headshot }}" alt="{{ post.data.name }}"/>
+			{% endif %}
 			<h3>
 				<a href="{{ post.url | url }}">
 					{% if post.data.name %}

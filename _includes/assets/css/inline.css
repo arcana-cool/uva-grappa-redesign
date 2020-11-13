@@ -190,3 +190,21 @@ button {
 		font-size: 1.1rem;
 	}
 }
+
+/* People */
+
+.person__email:before {
+	content: "\0260E";
+	padding-right: 1rem;
+}
+
+.person__phone:before {
+	content: "\02709";
+	font-size: 1.35em;
+	padding-right: 1rem;
+}
+
+.person__publication:before {
+	content: "\02712";
+	padding-right: 1rem;
+}
