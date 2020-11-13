@@ -6,13 +6,15 @@ section: people
 <article>
   <h1>{{ name }}</h1>
   <p>
-    {{ position }}
+    {{ role }}
   </p>
   <p>
     {{ office }}
   </p>
   <p>
-    {{ phone }}
+    <span class="person__email"><a href="mailto:{{ email }}">{{ email }}</a></span><br>
+    <span class="person__phone"><a href="tel:{{ phone }}">{{ phone }}</a></span><br>
+    <span class="person__publication"><a href="{{ publicationURL }}">Publications</a></span><br>
   </p>
 
   {{ layoutContent | safe }}
