@@ -39,15 +39,17 @@ You can freely choose among the following elective courses (shown in green below
 Your second year will be fully devoted to the Research Project. You will become part of the research groups of one of the faculty members and participate in their research. 
 
 [See a list of research topics](/msc/thesis/)
-[link to list below in “current students” section]
-https://scripties.uba.uva.nl/search?opleiding=physics;setlang=en;f1-graad=master
-
 ## Student Profile & Admission
 
 We want to attract MSc students that are interested in the physics of a relatively new field that has already generated five Nobel Prizes in the past decades (in 2002, 2006, 2011, 2015 and 2017). We offer a study experience in a cross-disciplinary international group at the forefront of fundamental research. 
 
 [Apply to the GRAPPA MSc program](http://www.uva.nl/onderwijs/master/masteropleidingen/nav/keys/fnwi/item/physics-gravitation-astroparticle-physics.html)
 
-Once you are admitted to the program, you will have an intake interview with the GRAPPA track coordinator at the beginning of the year, in September. 
+Once you are admitted to the program, you will have an intake interview with the GRAPPA track coordinator at the beginning of the year, in September.
+
+## Frequently Asked Questions
+Find answers about GRAPPA and more generally about the UvA/VU Physics & Astronomy MSc.
+
+[See FAQ](/msc/faq/)
 
 GRAPPA Track Coordinator: Patrick Decowski

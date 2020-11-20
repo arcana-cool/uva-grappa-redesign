@@ -4,7 +4,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /msc/faq/index.html
 ---
 
-Here is a list of Frequently Asked Questions about GRAPPA and more generally about the UvA/VU Physics & Astronomy MSc. Please have a look at these questions & answers before contacting me.
+Here is a list of Frequently Asked Questions about GRAPPA and more generally about the UvA/VU Physics & Astronomy MSc. Please have a look at these questions & answers before contacting us.
 
 ## What is the Personal Education Plan (PEP)?
 
