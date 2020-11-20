@@ -1,22 +1,9 @@
 ---
-layout: layouts/contact.njk
-title: Contact Us
-section: contact
+layout: layouts/base.njk
+title: How to find us
 date: 2018-01-01
-permalink: /contact/index.html
-eleventyNavigation:
-  key: Contact
-  order: 6
+permalink: /contact/how-to-find-us.html
 ---
-
-**Note:** Due to the Covid-19 pandemic travel opportunities to GRAPPA are very limited, and restrictions subject to changes on short time scales. Please contact Jiřina Šálková for general questions, and Patrick Decowski for questions related to the GRAPPA MSc track.
-
-**GRAPPA spokesperson:** [Samaya Nissanke](/people/samaya-nissanke/)
-**GRAPPA MSc track coordinator:** Patrick Decowski
-**Administrative contact:** Jiřina Šálková
- 
-Please feel free to contact any of the staff members for questions!
-
 ## How to find us
 
 Our visitor address is: **Science Park 904, 1098 XH Amsterdam**
