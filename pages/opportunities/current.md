@@ -1,12 +1,14 @@
 ---
-title: Jobs
+title: Opportunities
 date: 2017-01-01T00:00:00.000Z
-permalink: /jobs/index.html
+permalink: /opportunities/index.html
 eleventyNavigation:
-  key: Jobs
+  key: Opportunities
   order: 5
 ---
 We announce several PhD and postdoc positions at the GRAPPA institute, related to gravitational waves, fundamental physics and cosmology.
+
+See [independent post-doctoral fellowships](post-doc) 
 
 - [Postdoctoral research positions in Dark Universe Physics & Machine Learning](https://www.uva.nl/en/content/vacancies/2020/10/20-646-postdoctoral-research-positions-in-dark-universe-physics--machine-learning.html)
 **Closing date:** 1 December 2020

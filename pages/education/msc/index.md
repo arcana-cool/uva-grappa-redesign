@@ -4,7 +4,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /msc/index.html
 ---
 
-The GRAPPA MSc track focuses on astroparticle particle, particle physics and cosmology and is offered within the Physics & Astronomy MSc program. 
+The GRAPPA MSc track focuses on astroparticle particle, particle physics and cosmology and is offered within the Physics & Astronomy MSc program.
 
 Are you interested in questions such as:
 - How did the universe come to be?

@@ -25,7 +25,7 @@ Research at GRAPPA aims at a better understanding of natural phenomena at the ve
 Through colloquia, journal clubs, discussion groups and international visitor programs, we stimulate new interactions between GRAPPA researchers and with the international community.
 
 ## Testimonials
-> “Thirsty for knowledge? In GRAPPA you will feel like you’re diving into an international atmosphere surrounded by fascinating courses and seminars, which are on the edge of current knowledge.
+> “In GRAPPA you will feel like you’re diving into an international atmosphere surrounded by fascinating courses and seminars, which are on the edge of current knowledge.
 > —Ariane Dekker, Master's student
 
 ## News

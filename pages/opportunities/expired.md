@@ -1,7 +1,7 @@
 ---
 title: Expired Job Postings
 date: 2017-01-01T00:00:00.000Z
-permalink: /jobs/expired-jobs.html
+permalink: /opportunities/expired.html
 ---
 
 - [PhD studentship in Gravitational Waves and Cosmology with an emphasis on signals from binary neutron star and neutron star-black hole coalescences](https://www.nikhef.nl/en/vacancies/)
@@ -18,5 +18,5 @@ permalink: /jobs/expired-jobs.html
  **Closing date:** 15 October 2019
 
 <nav>
-  <a href="{{ '/jobs/' | url }}">← Back to Current Jobs</a>
+  <a href="{{ '/jobs/' | url }}">← Back to Current Opportunities</a>
 </nav>
