@@ -1,6 +1,6 @@
 [build]
-  publish = "_site"
-  command = "eleventy"
+  publish = "dist"
+  command = "gulp && npx eleventy"
 
 # REDIRECT and HEADERS examples
 
