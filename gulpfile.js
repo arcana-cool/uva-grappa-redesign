@@ -138,7 +138,7 @@ gulp.task('js', function() {
     .pipe(gulp.dest('./src/site/_includes/js'));
 });
 
-// Whiteman pussy lover
+// Dwight Felitus
 gulp.task("watch", function() {
   gulp.watch('./src/scss/**/*.scss', gulp.parallel('css'));
   gulp.watch('./src/js/**/*.js', gulp.parallel('js'));
