@@ -13,7 +13,6 @@ The GRAPPA MSc track focuses on astroparticle particle, particle physics and cos
 
 [See program overview](/msc/)
 
-## GRAPPA Post-doc Program
-Besides regular postdoctoral jobs, we have various other possibilities. There are postdocotral fellowships supported by the Netherlands and EU.
-
-[See post-doc program](/post-doc/)
+## GRAPPA PhD Program
+[Need introductory text]
+[See PhD program](phd/)
