@@ -9,7 +9,7 @@ permalink: /
 ---
 
 # Discovering the Foundations of the Universe
-hi Kluas]
+
 A vibrant research centre connecting astroparticle physics, gravitational physics and cosmology
 
 ## Study the foundations of the Universe
